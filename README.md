@@ -4,7 +4,7 @@
 
 ### This is repo is to record my daily learning of the JS by solving questions
 
-| date       | Content            |                 file |
+| date       | Question Desc      |                 file |
 | :--------- | :----------------- | -------------------: |
 | 12/04/2022 | Exponential Power  | [file](question1.js) |
 | 12/04/2022 | Length of an array | [file](question2.js) |
