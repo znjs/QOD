@@ -1,3 +1,5 @@
+// * QUESTION: Without using inbuilt methods write a function which returns the length of an array
+
 const arrayLength = (arr) => {
   let length = 0;
   for (let _ in arr) {

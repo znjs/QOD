@@ -1,3 +1,5 @@
+// *QUESTION: Write a function which takes a string and a number(n) and shift each letter in the string by n positions
+
 const encodeString = (str, num) => {
   num = num % 26;
   let charArr = str.split("");
