@@ -2,7 +2,7 @@
 
 const replace = (arr, findNumber, replaceNumber) => {
   const finalArr = [];
-  for (i in arr) {
+  for (let i in arr) {
     if (arr[i] === findNumber) finalArr.push(replaceNumber);
     else finalArr.push(arr[i]);
   }
