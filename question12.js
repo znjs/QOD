@@ -14,4 +14,4 @@ const rotateString = (str, number) => {
   console.log("antiClockWise", antiClockWise);
 };
 
-// console.log(rotateString("1234567890", 2));
+console.log(rotateString("1234567890", 2));
