@@ -4,7 +4,6 @@ const rotateString = (str, number) => {
   if (number > str.length) {
     number = number % str.length;
   }
-
   let clockWise = "";
   let antiClockWise = "";
   clockWise = str.slice(number) + str.slice(0, number);
