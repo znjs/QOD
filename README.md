@@ -21,6 +21,9 @@
 | 19/04/2022 | mask the last 4 characters of string                              | [file](question13.js) | easy       |
 | 19/04/2022 | check if a given string is a palindrome or not                    | [file](question14.js) | easy       |
 | 19/04/2022 | do a string reverse on every word keeping the order of words same | [file](question15.js) | easy       |
+| 19/04/2022 | find the max of n numbers                                         | [file](question16.js) | easy       |
+| 19/04/2022 | find the nth character in a string                                | [file](question17.js) | easy       |
+| 19/04/2022 | take a day of the week and display if its a weekday or weekend    | [file](question18.js) | easy       |
 
 ## **Author**
 

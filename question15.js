@@ -16,4 +16,4 @@ const wordsReverse = (str) => {
   return words.join(" ");
 };
 
-console.log(wordsReverse("we are neoGrammers"));
+console.log(wordsReverse("we   are neoGrammers"));
