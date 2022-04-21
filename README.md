@@ -27,6 +27,9 @@
 | 21/04/2022 | given 3 angles find the type of triangle                          | [file](question19.js) | easy       |
 | 21/04/2022 | given 2 dates return the oldest one                               | [file](question20.js) | medium     |
 | 21/04/2022 | find the most occurring character in a string                     | [file](question21.js) | medium     |
+| 22/04/2022 | Calculate the profit or loss of a product                         | [file](question22.js) | easy       |
+| 22/04/2022 | Sum of all digits of number                                       | [file](question23.js) | easy       |
+| 22/04/2022 | Convert Decimal number to binary                                  | [file](question24.js) | easy       |
 
 ## **Author**
 
