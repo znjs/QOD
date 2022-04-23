@@ -30,6 +30,8 @@
 | 22/04/2022 | Calculate the profit or loss of a product                         | [file](question22.js) | easy       |
 | 22/04/2022 | Sum of all digits of number                                       | [file](question23.js) | easy       |
 | 22/04/2022 | Convert Decimal number to binary                                  | [file](question24.js) | easy       |
+| 23/04/2022 | Values of a cube                                                  | [file](question25.js) | easy       |
+| 23/04/2022 | Print first N odd numbers in reverse order                        | [file](question26.js) | easy       |
 
 ## **Author**
 
