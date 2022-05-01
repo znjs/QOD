@@ -1,0 +1,1 @@
+charTracker[0]

@@ -13,9 +13,7 @@ const firstNonRepeatingChar = (s) => {
   for (let i of removeChar) {
     charTracker.splice(charTracker.indexOf(i), 1);
   }
-  console.log(charTracker);
-  console.log(removeChar);
-  return charTracker.length > 0 ? charTracker[0] : -1;
+  return s.indexOf(charTracker[0]);
 };
 
 console.log(firstNonRepeatingChar("nnneeooggccaammpp"));
