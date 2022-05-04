@@ -3,6 +3,7 @@
 const fizzBuzz = (num) => {
   let arr = [];
   // ?THIS IS A TEST COMMENT
+  //? INSIDE TEST BRANCH
   for (let i = 1; i <= num; i++) {
     if (i % 15 === 0) arr.push("FIZZBUZZ");
     else if (i % 3 === 0) arr.push("FIZZ");
