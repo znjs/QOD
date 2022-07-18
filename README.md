@@ -32,6 +32,8 @@
 | 22/04/2022 | Convert Decimal number to binary                                  | [file](questions/question24.js) | easy       |
 | 23/04/2022 | Values of a cube                                                  | [file](questions/question25.js) | easy       |
 | 23/04/2022 | Print first N odd numbers in reverse order                        | [file](questions/question26.js) | easy       |
+| 23/04/2022 | Currying Sum                                                      | [file](questions/question51.js) | medium     |
+| 23/04/2022 | Print pairs which match the sum                                   | [file](questions/question52.js) | medium     |
 
 ## **Author**
 
