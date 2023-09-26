@@ -6,6 +6,7 @@
 
 | date       | Question Desc                                                     | file                            | Difficulty |
 | :--------- | :---------------------------------------------------------------- | ------------------------------- | ---------- |
+| 27/09/2023 | Merge two sorted Linked lists                                     | [file](questions/question57.js) | medium     |
 | 27/09/2023 | Sum of values at indices with K set Bits                          | [file](questions/question56.js) | medium     |
 | 27/09/2023 | Number of good pairs                                              | [file](questions/question55.js) | easy       |
 | 26/08/2023 | Print 1 to N numbers using recursion                              | [file](questions/question53.js) | easy       |
