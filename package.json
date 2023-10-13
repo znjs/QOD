@@ -1,10 +1,11 @@
 {
   "name": "qod",
   "version": "1.0.0",
+  "type": "module",
   "description": "<div align=\"center\">     <h1>❓Question of the day❓</h1> </div>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
