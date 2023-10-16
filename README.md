@@ -14,6 +14,8 @@
 | 16/10/2023 | Find the max profit for a given array of stock prices    | [file](arrays/prob5.js) | medium     |
 | 16/10/2023 | Check if a number exists in a 2D matrix                  | [file](arrays/prob6.js) | medium     |
 
+> For Test cases of questions checkout [TestFile](__tests__/array.test.mjs)
+
 ## **Author**
 
 - **Website** - [JayaSrikar K](https://jayasrikark.netlify.app/)
