@@ -3,6 +3,7 @@ const { binarySearch, recursiveBinarySearch } = require("../arrays/prob1.js");
 const { findPair } = require("../arrays/prob4");
 const { maxProfit } = require("../arrays/prob5");
 const { searchMatrix } = require("../arrays/prob6");
+const { ternarySearch } = require("../arrays/prob7");
 console.log(searchMatrix);
 describe("Searching Algorithms", () => {
   test("Linear Search", () => {
@@ -59,4 +60,8 @@ test("Search for element notfound", () => {
       11
     )
   ).toBe(false);
+});
+
+test("ternarySearch", () => {
+  expect(ternarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 4)).toBe(3);
 });
