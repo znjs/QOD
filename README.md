@@ -16,6 +16,7 @@
 | 17/10/2023 | Ternary Search                                           | [file](arrays/prob7.js)          | medium     |
 | 17/10/2023 | Bubble Sort                                              | [file](sorting/bubbleSort.js)    | easy       |
 | 17/10/2023 | Selection Sort                                           | [file](sorting/selectionSort.js) | easy       |
+| 17/10/2023 | Insertion Sort                                           | [file](sorting/insertionSort.js) | easy       |
 
 > For Test cases of questions checkout [TestFile](__tests__/array.test.mjs)
 
