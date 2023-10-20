@@ -17,6 +17,13 @@
 | 17/10/2023 | Bubble Sort                                              | [file](sorting/bubbleSort.js)    | easy       |
 | 17/10/2023 | Selection Sort                                           | [file](sorting/selectionSort.js) | easy       |
 | 17/10/2023 | Insertion Sort                                           | [file](sorting/insertionSort.js) | easy       |
+| 19/10/2023 | Second Largest Element (Bubble Sort Approach)            | [file](sorting/prob0.js)         | easy       |
+| 19/10/2023 | Second Smallest Element (Insertion Sort Approach)        | [file](sorting/prob1.js)         | easy       |
+| 19/10/2023 | Two Sum                                                  | [file](sorting/prob2.js)         | easy       |
+| 19/10/2023 | Remove Duplicates in array                               | [file](sorting/prob3.js)         | easy       |
+| 19/10/2023 | Remove elements in array which match the target          | [file](sorting/prob4.js)         | easy       |
+| 19/10/2023 | Count Pairs which are less than the target value         | [file](sorting/prob5.js)         | easy       |
+| 20/10/2023 | Expense Calculation                                      | [file](strings/prob0.js)         | easy       |
 
 > For Test cases of questions checkout [TestFile](__tests__/array.test.mjs)
 
