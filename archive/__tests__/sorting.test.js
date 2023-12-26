@@ -1,4 +1,5 @@
 const { bubbleSort } = require("../sorting/bubbleSort");
+const { divideAndConquer } = require("../sorting/divideAndConquer");
 const { insertionSort } = require("../sorting/insertionSort");
 const { secondLargest } = require("../sorting/prob0");
 const { secondSmallest } = require("../sorting/prob1");
@@ -49,4 +50,8 @@ test("Remove Target Elements", () => {
 test("Count Sums", () => {
   expect(countPairs([-1, 1, 2, 3, 1], 2)).toBe(3);
   expect(countPairs([-6, 2, 5, -2, -7, -1, 3], -2)).toBe(10);
+});
+
+test("Divide And Conquer Sorting", () => {
+  expect(divideAndConquer([3, 2, 43, 1, 3, 2])).toEqual([1, 2, 2, 3, 3, 43]);
 });
