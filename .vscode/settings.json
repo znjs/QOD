@@ -1,3 +1,23 @@
 {
-  "jest.rootPath": "/"
+  "jest.rootPath": "/",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#D3D3D3",
+    "activityBar.background": "#D3D3D3",
+    "activityBar.foreground": "#000000",
+    "activityBar.inactiveForeground": "#414141",
+    "activityBarBadge.background": "#B0B0B0",
+    "activityBarBadge.foreground": "#000000",
+    "commandCenter.border": "#00000099",
+    "sash.hoverBorder": "#D3D3D3",
+    "statusBar.background": "#C0C0C0",
+    "statusBar.foreground": "#000000",
+    "statusBarItem.hoverBackground": "#A9A9A9",
+    "statusBarItem.remoteBackground": "#C0C0C0",
+    "statusBarItem.remoteForeground": "#000000",
+    "titleBar.activeBackground": "#C0C0C0",
+    "titleBar.activeForeground": "#000000",
+    "titleBar.inactiveBackground": "#C0C0C099",
+    "titleBar.inactiveForeground": "#00000099",
+    "sideBar.border": "#D3D3D3"
+  }
 }
